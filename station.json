@@ -1,0 +1,123 @@
+{"insert": {
+  "id": 10,
+  "name": "Times Square",
+  "location": 
+  { "data": [
+    {"x": 40.7580, "y": -73.9855},
+], "type": "Point"}}}
+{
+  "insert": {
+    "id": 1,
+    "name": "Grand Central Terminal",
+    "location": {
+      "data": [
+        {"x": 40.7527, "y": -73.9772}
+      ],
+      "type": "Point"
+    }
+  }
+}
+
+{
+  "insert": {
+    "id": 2,
+    "name": "Penn Station",
+    "location": {
+      "data": [
+        {"x": 40.7500, "y": -73.9935}
+      ],
+      "type": "Point"
+    }
+  }
+}
+
+{
+  "insert": {
+    "id": 3,
+    "name": "Port Authority Bus Terminal",
+    "location": {
+      "data": [
+        {"x": 40.7590, "y": -73.9911}
+      ],
+      "type": "Point"
+    }
+  }
+}
+
+{
+  "insert": {
+    "id": 4,
+    "name": "34th Street-Herald Square",
+    "location": {
+      "data": [
+        {"x": 40.7498, "y": -73.9877}
+      ],
+      "type": "Point"
+    }
+  }
+}
+
+{
+  "insert": {
+    "id": 5,
+    "name": "Union Square",
+    "location": {
+      "data": [
+        {"x": 40.7361, "y": -73.9903}
+      ],
+      "type": "Point"
+    }
+  }
+}
+
+{
+  "insert": {
+    "id": 6,
+    "name": "Chambers Street",
+    "location": {
+      "data": [
+        {"x": 40.7153, "y": -74.0129}
+      ],
+      "type": "Point"
+    }
+  }
+}
+
+{
+  "insert": {
+    "id": 7,
+    "name": "Brooklyn Bridge-City Hall",
+    "location": {
+      "data": [
+        {"x": 40.7116, "y": -73.9971}
+      ],
+      "type": "Point"
+    }
+  }
+}
+
+{
+  "insert": {
+    "id": 8,
+    "name": "Bowery",
+    "location": {
+      "data": [
+        {"x": 40.7171, "y": -73.9965}
+      ],
+      "type": "Point"
+    }
+  }
+}
+
+{
+  "insert": {
+    "id": 9,
+    "name": "South Ferry",
+    "location": {
+      "data": [
+        {"x": 40.7025, "y": -74.0134}
+      ],
+      "type": "Point"
+    }
+  }
+}
