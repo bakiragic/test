@@ -3,7 +3,7 @@
   "name": "Times Square",
   "location": 
   { "data": [
-    {"x": 40.7580, "y": -73.9855},
+    {"x": 40.7580, "y": -73.9855}
 ], "type": "Point"}}}
 {
   "insert": {
